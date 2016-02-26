@@ -7,7 +7,7 @@
 
 ## Tasks
 1. Use the [Web UI](https://cp-demo.blockchain.ibm.com) to issue and purchase commercial paper
-2. Use the [REST API](https://ibmblockchainapi.mybluemix.net/swagger/ui.html?scheme=https&host=cp-demo.blockchain.ibm.com:31443&basepath=/) to explore blocks and transactions
+2. Use the [REST API](https://ibmblockchainapi.mybluemix.net/swagger/ui.html?scheme=https&host=cp-demo.blockchain.ibm.com:31443&basepath=/) to explore blocks and transactions.  [Begin](https://github.com/IBM-Blockchain/genesis/blob/master/task2.md)
 3. (Bonus challenge) Use the REST API to issue and/or purchase commercial paper
 
 ## Key Information
