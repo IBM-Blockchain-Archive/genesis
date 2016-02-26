@@ -1,5 +1,15 @@
 # Welcome to the IBM Blockchain demo for R3's Project Genesis
 
+## Goals
+* Provide a sample implementation of issuing and purchasing commercial paper
+* Explore the IBM blockchain API
+* Deploy the demo to your own network (coming soon!)
+
+## Tasks
+1. Use the [Web UI](https://cp-demo.blockchain.ibm.com) to issue and purchase commercial paper
+2. Use the [REST API](https://ibmblockchainapi.mybluemix.net/swagger/ui.html?scheme=https&host=cp-demo.blockchain.ibm.com:31443&basepath=/) to explore blocks and transactions
+3. (Bonus challenge) Use the REST API to issue and/or purchase commercial paper
+
 ## Key Information
 * [Web UI](https://cp-demo.blockchain.ibm.com)
 * [Swagger UI](https://ibmblockchainapi.mybluemix.net/swagger/ui.html?scheme=https&host=cp-demo.blockchain.ibm.com:31443&basepath=/)
