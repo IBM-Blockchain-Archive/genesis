@@ -23,7 +23,7 @@ The time the latest block was committed on the chain is shown on the top right.
 
 We can show/hide the list of the blocks on the chain by clicking on the "*View Tx Blocks*". 
 Hovering or clicking on the block number will show the details of the block.
-We can see a new block being added to the chain when a create/trade transaction is performed
+We can see a new block being added to the chain when a create/trade transaction is performed.
 
 The following details are required for issuing a new commercial paper:
 * **Ticker:** The ticker for the paper
@@ -34,18 +34,21 @@ The following details are required for issuing a new commercial paper:
 
 Click on the Create button to issue the Commercial Paper. Once issued, the paper will be listed on the Trade page.
 
+Note: Creating a paper with an already existing ticker will add to the quantity of the existing paper.
+It will not update any other properties of the existing paper.
+
 ## Trade
 
 Click on the Trade link to go to the trade page.
 
 ![Labelled Trade Page](/img/trade_marked.png)
 We can list all the Commercial Papers and buy one from the Trade Center.
-The trade center shows the Account Balance of the company whicch is signed in.
+The trade center shows the Account Balance of the company which is signed in.
 It lists all the commercial papers ever issued with details of each paper.
 
 The papers which are already purchased and are not available are greyed out and their Buy button is disabled.
 The papers can be purchased by clicking on the Buy button. 
-Currently, only a single commercial paper can be purchased at a time.
+Currently, clicking on Buy button will only purchase a single quantity of the paper.
 
 When a paper is purchased, the account balance of the company purchasing the paper and of the issuer company of the paper are affected.  
 
